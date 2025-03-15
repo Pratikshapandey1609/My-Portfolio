@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family :"Poppins", sans-serif;
+}
+
+@Layer components{
+  .resumeLi {
+    @apply bg-black w-full h-20 bg-opacity-25 text-xl text-gray-900 flex justify-center cursor-pointer hover:bg-opacity-40 duration-300 items-center  border-[1px]  rounded-none
+  }
+}
