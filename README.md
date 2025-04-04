@@ -1,8 +1,18 @@
-# React + Vite
+# 🚀 Pratiksha Pandey | Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hey there! I'm a passionate Full-Stack Developer and a 3rd-year CSE student at SRIT. I love building real-world tech using the MERN stack, IoT, and more!
 
-Currently, two official plugins are available:
+## 💻 Tech Stack
+- React.js, Node.js, MongoDB, Express.js  
+- JavaScript, Tailwind  
+- Git, Firebase, APIs 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Projects
+- **AI Code Reviewer** – Uses AI to review and improve code quality  
+- **To-do App** – Simple task tracker  
+- **Chat App** – Real-time chat using MERN + Socket.IO  
+- **Stopwatch** – Web stopwatch with clean UI
+
+## 🔗 Links
+- [LinkedIn](https://www.linkedin.com/in/pratiksha-pandey)  
+- 📧 pratishapandey239@gmail.com
